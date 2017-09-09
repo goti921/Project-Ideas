@@ -6,6 +6,8 @@ be simply a way for a user to keep track of relevant webpages and later it can b
 graph of the webpages linking to their relevant webpages as marked by the user and also giving the user the option to view what
 others have linked to the same webpage.
 
-2. A domain specific chatbot for the AI/ML enthusiast inside me(but the lazy human I am, this might take some time).
+2. An app to collect information regarding the crime prone areas in/around a place(city, district etc...) and show that information demographically. Information retrieval needs to be accurate if doing through automated means like web scraping et al.
 
-3. Definitely a website/blog.
+3. A domain specific chatbot for the AI/ML enthusiast inside me(but the lazy human I am, this might take some time).
+
+4. Definitely a website/blog.
