@@ -8,6 +8,8 @@ others have linked to the same webpage.
 
 2. An app to collect information regarding the crime prone areas in/around a place(city, district etc...) and show that information demographically. Information retrieval needs to be accurate if doing through automated means like web scraping et al.
 
-3. A domain specific chatbot for the AI/ML enthusiast inside me(but the lazy human I am, this might take some time).
+3. A web app to extract all links from a webpage and show it descriptively to the user by leveraging the meta information of the links.
 
-4. Definitely a website/blog.
+4. A domain specific chatbot for the AI/ML enthusiast inside me(but the lazy human I am, this might take some time).
+
+5. Definitely a website/blog.
